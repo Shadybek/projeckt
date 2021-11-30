@@ -1,0 +1,356 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+.container {
+  width: 1170px;
+  margin: auto;
+}
+
+/* HEADER */
+
+#header {
+  position: absolute;
+  width: 100%;
+}
+
+.header-blok {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.asd {
+  color: aliceblue;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-left: 30px;
+}
+
+/* HEADER */
+
+/* HERO */
+
+#hero {
+  background: url(../img/fon.png) no-repeat center;
+  min-height: 100vh;
+}
+
+.Text {
+  color: aliceblue;
+  margin-left: 300px;
+  padding-top: 130px;
+  font-size: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.text2 {
+  color: aliceblue;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-left: 85px;
+  padding-top: 90px;
+  text-align: center;
+  font-size: 19px;
+}
+
+.try {
+  margin-left: 530px;
+  margin-top: 70px;
+}
+
+.qwe {
+  width: 200px;
+  height: 40px;
+  border-radius: 35px;
+  background: #2091f9;
+  color: aliceblue;
+}
+
+/* HERO */
+
+/* hero2 */
+
+.vid {
+  margin-top: 110px;
+}
+
+.qq {
+  color: black;
+  margin-left: 250px;
+  margin-top: 100px;
+}
+
+.ww {
+  margin-left: 300px;
+}
+
+.ee {
+  margin-left: 90px;
+  text-align: center;
+  width: 532px;
+  height: 80px;
+}
+.r1 {
+  width: 250px;
+  height: 257px;
+  text-align: center;
+  margin-left: 60px;
+}
+
+.r2 {
+  width: 250px;
+  height: 250x;
+  text-align: center;
+  margin-left: 60px;
+}
+.r3 {
+  width: 250px;
+  height: 250x;
+  text-align: center;
+  margin-left: 60px;
+}
+
+.fl {
+  width: 869px;
+  height: 257px;
+  display: flex;
+  justify-content: center;
+  margin-left: -100px;
+}
+
+.gg {
+  position: absolute;
+  padding-left: 600px;
+  padding-top: 300px;
+}
+
+.mm {
+  position: absolute;
+  padding-left: 680px;
+  padding-top: 365px;
+}
+
+/* hero2 */
+
+/* HERO3 */
+
+.mac {
+  margin-left: 500px;
+  margin-top: 150px;
+}
+
+.te {
+  margin-top: -400px;
+  width: 335px;
+  font-size: 20px;
+}
+.v {
+  font-size: 40px;
+}
+
+.bu {
+  width: 200px;
+  height: 40px;
+  border-radius: 35px;
+  background: #2091f9;
+  color: aliceblue;
+  margin-top: 150px;
+}
+
+/* HERO3 */
+
+/* hero4 */
+
+.tr {
+  margin-top: 180px;
+  margin-left: -200px;
+}
+
+.text3 {
+  margin-left: 700px;
+  margin-top: -500px;
+}
+
+.em {
+  margin-left: 700px;
+  margin-top: 200px;
+  border-radius: 30px;
+  width: 200px;
+  height: 54px;
+}
+.but {
+  border-radius: 30px;
+  width: 172px;
+  height: 54px;
+  background-color: #2091f9;
+  color: aliceblue;
+}
+.as {
+  margin-top: -100px;
+}
+.pp {
+  font-size: 48px;
+  margin-top: 20px;
+}
+.hq {
+  margin-top: 25px;
+}
+
+/* hero4 */
+
+/* hero5 */
+
+.hhh {
+  margin-top: 300px;
+  margin-left: 100px;
+  text-align: center;
+}
+.ccc {
+  font-size: 50px;
+}
+.ppp {
+  margin-top: 50px;
+  font-size: 28px;
+}
+
+.part {
+  margin-top: 200px;
+  margin-left: 30px;
+}
+
+/* hero5 */
+
+/* hero6 */
+
+#hero6 {
+
+  background: #252b42;
+}
+
+.kv {
+  width: 250px;
+  height: 500px;
+  background: rgb(255, 255, 255);
+  margin-top: 100px;
+  margin-left: -200px;
+  border-radius: 10px;
+}
+
+.qweq{
+  margin-left: 350px;
+  color: aliceblue;
+}
+
+.asdf{
+  margin-left: 150px;
+  color: aliceblue;
+}
+
+.poi{
+margin-left: 5px;
+text-align: center;
+}
+
+.rowww{
+  margin-top: 30px;
+  margin-left: 40px;
+}
+
+.aaa{
+margin-top: 20px;
+}
+
+.eee{
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.but2{
+border-radius: 35px;
+background-color: #2091f9;
+color: aliceblue;
+}
+
+
+
+.kv2{
+  background:#2091f9;
+  border-radius: 10px;
+  color: aliceblue;
+}
+
+.kv3{
+  background: white;
+  border-radius: 10px;
+  
+}
+
+
+.but3{
+  width: 160px;
+height: 40px;
+border-radius: 35px;
+margin-left: 35px;
+margin-top: 50px;
+background-color: white;
+color: #2091f9;
+}
+
+
+/* hero6 */
+
+
+/* hero7 */
+.h11{
+  margin-left: 100px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.login{
+  width: 250px;
+  height: 260px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 5px 30px 0 rgba(0, 0, 0,0.2);
+}
+
+
+.inputt{
+  margin-top: 15px;
+  border-radius: 40px;
+  padding-top: 10px;
+
+}
+
+.inputt1{
+  padding-top: 50px;
+  margin-top: 10px;
+  padding-left: 30px;
+  margin-left: 20px;
+}
+
+.bott{
+  padding-top: 15px;
+  padding-left: 50px;
+  border-radius: 40px;
+  margin-top: 15px;
+}
+
+.maps{
+  margin-left: 500px;
+  margin-top: -100px;
+}
+
+
+.gp{
+  margin-left: 500px;
+  margin-top: -300px;
+}
+
+
+/* hero7 */
+
+
